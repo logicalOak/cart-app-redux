@@ -1,8 +1,8 @@
-    ✨ Quiz Mini App
+    ✨ Cart Mini App
 ---
-![Quiz Mini App](src/assets/images/preivew.png)
+![Cart Mini App](src/assets/images/preview.png)
 #### 🧷 About
-Quiz application using [Trivia API](https://opentdb.com/)
+
 
 ---
 #### 📊 What was used
