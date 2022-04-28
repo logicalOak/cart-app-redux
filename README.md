@@ -2,7 +2,7 @@
 
 ---
 
-![Cart Mini App](assets/images/preview.png)
+![Cart Mini App](assets/images/pre.png)
 
 #### ✅ About
 
