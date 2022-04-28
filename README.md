@@ -1,10 +1,12 @@
-    ✨ Cart Mini App
+    ✅ Cart Mini App
 
 ---
 
-![Cart Mini App](src/assets/images/preview.png)
+![Cart Mini App](assets/images/preview.png)
 
-#### 🧷 About
+#### ✅ About
+
+A mini application written in React and Redux Toolkit, revealing the functionality of the shopping cart on a commercial site
 
 ---
 
